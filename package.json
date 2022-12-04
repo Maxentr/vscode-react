@@ -1,7 +1,7 @@
 {
   "name": "ReactAndNextSnippets",
   "description": "Code snippets for React and Next 13 development",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "React and Next code snippets",
   "publisher": "Maxentr",
   "icon": "images/react.png",

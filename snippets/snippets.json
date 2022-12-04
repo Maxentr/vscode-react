@@ -109,5 +109,10 @@
     "prefix": "usec",
     "body": "const ${1:context} = useContext(${2:Context});",
     "description": "Adds React useContext"
+  },
+  "consoleLog": {
+    "prefix": "cl",
+    "body": "console.log(${1});",
+    "description": "Adds console.log"
   }
 }
